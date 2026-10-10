@@ -23,3 +23,6 @@ Tools Used
 Objective
 
 To analyze hospital emergency data and understand patient flow, waiting times, and department performance.
+
+
+Dashboard Preview
